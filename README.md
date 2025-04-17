@@ -136,6 +136,8 @@ pnpm run dev
 ```
 Open <a href="http://localhost:5173">http://localhost:5173</a> and start talking!
 
+https://github.com/user-attachments/assets/05492fdc-dc98-4b87-9f91-0469cb231f6e
+
 ---
 
 ## Deployment  <a id="deployment"></a>
